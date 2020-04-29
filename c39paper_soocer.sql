@@ -57,23 +57,7 @@ CREATE TABLE `users` (
 
 INSERT INTO `users` (`id_user`, `login`, `password`) VALUES
 (29, 'bp181', '$2y$10$.evJVo24C0UWkQDGXJKdOOwckiBDTP0LN5Cgi6mLoBVhkUYgOjwvi'),
-(30, 'dawid', '$2y$10$WMdroVWPA8OzJp0Uu8Q3hObZ9wHt8VYBA7xFNzZasaYfbxd4J2Tta'),
-(31, 'zyd', '$2y$10$.aDPWrvHStBl3W1KPDzcP.YU.ovoVyXcvVH4afUj7hT7a7YZdg9D.'),
-(32, 'Pedofil', '$2y$10$cj1G0Wou..hMhJTGyJYYxeV1kMUBNLMeYVSI2dD7BacEHsHO2cO72'),
-(33, 'baquardo', '$2y$10$2Dv6dhvuzOftJVC/rZUA7uYEAJZiQ5qBXg4a/b23ghvNM8Q4ar8WO'),
-(34, 'Olka', '$2y$10$g/.VrDpennu82K0Oz9C5POFZ8gnXvim71BUu2aaNM.tXjYRizU77O'),
-(35, 'aaa', '$2y$10$RsDr3SqlJdshMO5c/Lt.ZOOkW8zkUOtwcKQfHWdNSdMSe4FF94JrO'),
-(36, 'Sciana', '$2y$10$6DksM0J1B.tEHOtTeeNLH..hhUFh8IxC94C7DDyNIb6jyEuvHGp5u'),
-(37, 'zaq12wsx', '$2y$10$L41xciBzT3RPpTFji1PA6eOshIAsWqwS5yN.4J7vhfCclbOdO094.'),
-(38, 'Mmm', '$2y$10$iRDfwRs5bv6lso6HFFPCqeQwzCaWNepubhXjz19nzAjEAyRLEhVI2'),
-(39, 'qqqqq', '$2y$10$beZAO7D5e2lJptEsgP4U8Ot9sRMlvXnQ1JXqshO1O5YCB27kXKs1.'),
-(40, 'Andrzej', '$2y$10$qFS0eZpK4TwqJd4Su8Fv4eg.xGFmNorOq6rwdCG/bB.n6kphQEB2W'),
-(41, 'mamak', '$2y$10$uoK.srYJPRdbfth4R.o1JuFcwSGnsycFMYwXroC/h5Ci5AhwTQa32'),
-(42, 'BarPaw', '$2y$10$vQvaxI/GpqwfhslwWLHGT.tajVmtbVbBj8qcs90OPyRxsSTlgY/jS'),
-(43, 'Pedofill', '$2y$10$372rmvfznEqMyPDO/CF/Eu/QOXfyCqwitPWyUCpcV36vDneZPwx4S'),
-(44, 'andrei', '$2y$10$dX9og16dmlMWN/luwN8HJO/tZ2UkNs0qPXGJ9PHg/HDofsdUFU7fy'),
-(45, 'george', '$2y$10$Llo3HY.rl.JXCrDqWpyU/.Iodpw22CmHK5tp7xRblRJ4rXIDz1ib2'),
-(46, 'bartek', '$2y$10$WcE9MYMoyuULkj0R.cYduuEZPQlafKEBbYXyjy5p5xePT93uSbHEi');
+(30, 'dawid', '$2y$10$WMdroVWPA8OzJp0Uu8Q3hObZ9wHt8VYBA7xFNzZasaYfbxd4J2Tta');
 
 --
 -- Indeksy dla zrzutów tabel
